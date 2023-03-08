@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.hsmidt.jstestsmells.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.hsmidt.jstestsmells.MyBundle
 
 class MyApplicationService {
 
